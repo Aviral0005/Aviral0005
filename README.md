@@ -1,7 +1,7 @@
-# 🚀 Ashutosh Mishra | Full Stack Developer
+# 🚀 Aviral Verma | Mern Stack Developer
 
 ## 💫 About Me
-I am a passionate **Computer Science Engineering student** and an aspiring **Full Stack Developer** who enjoys building modern, scalable, and user-friendly web applications. I love transforming ideas into real-world digital products using modern web technologies.
+I am a passionate **Computer Science Engineering student** and an aspiring **Mern Stack Developer** who enjoys building modern, scalable, and user-friendly web applications. I love transforming ideas into real-world digital products using modern web technologies.
 
 Currently, I am focused on strengthening my **Data Structures & Algorithms using Java** while actively developing projects using **React, Node.js, and Firebase**.
 
